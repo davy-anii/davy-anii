@@ -130,9 +130,9 @@ Mobile App Developer specializing in Flutter and React Native, building scalable
 </p>
 ---
 
----
 
 
+# 🏆 GitHub Top Languages card
 
  <img src="https://ghstats.dev/api/langs?username=davy-anii&theme=ocean&border_radius=0&max_langs=12" alt="Top Languages" />
 
