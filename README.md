@@ -31,4 +31,10 @@
 
 <img src="https://ghstats.dev/api/card?username=davy-anii&theme=forest&border_radius=0&size=compact" alt="GitHub Stats Card" />
 
+ <img src="https://ghstats.dev/api/langs?username=davy-anii&theme=ocean&border_radius=0&max_langs=12" alt="Top Languages" />
+
+ ![davy-anii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=davy-anii&theme=vue&hide_border=true) ![davy-anii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=davy-anii&theme=vue&hide_border=true)
+ 
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
