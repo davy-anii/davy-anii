@@ -101,6 +101,34 @@ Mobile App Developer specializing in Flutter and React Native, building scalable
   <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white"/>
   <img src="https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white"/>
 </p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davy-anii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davy-anii&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=davy-anii&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=davy-anii&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
 <img src="https://ghstats.dev/api/card?username=davy-anii&theme=forest&border_radius=0&size=compact" alt="GitHub Stats Card" />
 
  <img src="https://ghstats.dev/api/langs?username=davy-anii&theme=ocean&border_radius=0&max_langs=12" alt="Top Languages" />
