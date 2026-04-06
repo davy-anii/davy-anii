@@ -121,11 +121,15 @@ Mobile App Developer specializing in Flutter and React Native, building scalable
 
 ---
 
+---
+
 # 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=davy-anii&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=davy-anii&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 </p>
+
+---
 
 ---
 
